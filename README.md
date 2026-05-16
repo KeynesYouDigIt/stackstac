@@ -2,7 +2,7 @@
 
 > **Project status: not actively maintained**
 >
-> stackstac is no longer actively maintained — the last release and commits date to mid-2024, and new issues and pull requests are unlikely to receive a response.
+> stackstac is no longer actively maintained — issues and PRs may not receive a response.
 >
 > stackstac still works and is used in production by many projects. For new projects or any needs, the actively maintained alternative is [`odc-stac`](https://github.com/opendatacube/odc-stac) instead.
 > 
