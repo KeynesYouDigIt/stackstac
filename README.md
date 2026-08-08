@@ -4,9 +4,7 @@
 >
 > stackstac is no longer actively maintained — issues and PRs may not receive a response.
 >
-> stackstac still works and is used in production by many projects. For new projects or any needs, the actively maintained alternative is [`odc-stac`](https://github.com/opendatacube/odc-stac) instead.
-> 
-> Anyone interested in helping maintain stackstac is welcome; see [#270](https://github.com/gjoseph92/stackstac/issues/270) for discussion.
+> stackstac still works and is used in production by many projects. For new projects or any needs, the actively maintained alternatives are [`odc-stac`](https://github.com/opendatacube/odc-stac) and [`lazycogs`](https://developmentseed.org/lazycogs/) instead.
 
 [![Documentation Status](https://readthedocs.org/projects/stackstac/badge/?version=latest)](https://stackstac.readthedocs.io/en/latest/?badge=latest) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gjoseph92/stackstac/main?labpath=%2Fdocs%2Fbasic.ipynb%3Ffile-browser-path%3D%2Fexamples)
 
